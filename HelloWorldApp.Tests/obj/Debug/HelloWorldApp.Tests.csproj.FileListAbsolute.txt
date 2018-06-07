@@ -1,0 +1,2 @@
+C:\Users\mounicamerla\Desktop\App\HelloWorldApp\HelloWorldApp.Tests\obj\Debug\HelloWorldApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mounicamerla\Desktop\App\HelloWorldApp\HelloWorldApp.Tests\obj\Debug\HelloWorldApp.Tests.csproj.CoreCompileInputs.cache
